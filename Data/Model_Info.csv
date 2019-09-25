@@ -1,0 +1,9 @@
+Name,Param.x,Param.y,Description,ColName
+Turb_SS,Turbidity,Suspended.Solids,Turbidity Suspended Solids,SS.From.Turb
+Turb_TP,Turbidity,Total.Phosphorus,Turbidity Total Phosphorus,TP.From.Turb
+Turb_EC,Turbidity,E.Coli,Turbidity E. Coli,EC.From.Turb
+SS_TP,Suspended.Solids,Total.Phosphorus,Suspended Solids Total Phosphorus,TP.From.SS
+SS_EC,Suspended.Solids,E.Coli,Suspended Solids E. Coli,EC.From.SS
+TP_EC,Total.Phosphorus,E.Coli,Total Phosphorus E. Coli,EC.From.TP
+Turb_BD,Turbidity,Black.Disc,Turbidity Black Disc,BD.From.Turb
+SS_BD,Suspended.Solids,Black.Disc,Suspended Solids Black Disc,BD.From.SS

@@ -1,0 +1,41 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#csv files
+*.csv
+
+#xml files
+*.xml
+
+#Excel files
+*.xlsx
+
+#R files
+*.R
+
+#Images
+*.png
+Thumbs.db
+
+# directories
+
+**/Docs
+
+
+# working test files
+
+# exceptions
+!Acceptable_Lab_Comments.csv
+!WQMeasurements.csv
+!SiteListAll201904.csv
+!Model_Info.csv
+
+!WQChecker_split.R
+!WQCoderFunctions.R
+!WQualityFromHilltop.R
+!WriteCodedHilltopWQXML.R
+!WQCoderDuplicateChecks.R
+
+**/Data/ToUse

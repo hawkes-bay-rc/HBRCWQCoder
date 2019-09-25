@@ -1,0 +1,77 @@
+Measurements,AgencyMeasurement,StdMeasurementName,AcceptableMethod,MaxCode,LLD,MeasurementTypeStdText,Type
+Ammoniacal Nitrogen,Ammoniacal Nitrogen,Ammoniacal.Nitrogen,Phenol/hypochlorite Colorimetry (trace) 22 ed 2012,600,0.005,[Sample],Lab
+Ash Free Dry Weight[Ash Free Dry Weight],Ash Free Dry Weight,Ash.Free.Dry.Weight,Std Methods 19th edition,200,,[Other],Lab
+Ash Free Dry Weight (g/m2)[Ash Free Dry Weight (g/m2)],Ash Free Dry Weight (g/m2),Ash.Free.Dry.Weight.Area,No Method Assigned,200,,[Other],Lab
+Ash Free Dry Weight per sample[Ash Free Dry Weight per sample],Ash Free Dry Weight per sample,Ash.Free.Dry.Weight.Sample,"Algal biomass, 500C 60mins rehydration 22ed 2012",200,,[Other],Lab
+Bedrock bed substrate[Bedrock bed substrate],Bedrock bed substrate,Bedrock.Bed.Substrate,Habitat Assessment Form,200,,[Other],Field
+Bicarbonate[Bicarbonate],Bicarbonate,Bicarbonate,Calculated,200,,[Sample],Lab
+Black Disc,Black Disc,Black.Disc,Water & Soil Miscellaneous publication No. 54,600,,[BD],Field
+Boulder bed substrate[Boulder bed substrate],Boulder bed substrate,Boulder.Bed.Substrate,Habitat Assessment Form,200,,[Other],Field
+Calcium[Calcium],Calcium,Calcium,Ind Coupled Plasma + Mass Spec,200,,[Sample],Lab
+Carbonate[Carbonate],Carbonate,Carbonate,Calculated,200,,[Sample],Lab
+Chlorophyll a calculated[Chlorophyll a calculated],Chlorophyll a calculated,Chlorophyll.a.Calculated,No Method Assigned,200,,[Chla],Lab
+Chlorophyll A per sample[Chlorophyll A per sample],Chlorophyll A per sample,Chlorophyll.a.per.Sample,Acetone Extraction spectroscopy 22ed 2012,200,,[Chla],Lab
+Cobble bed substrate[Cobble bed substrate],Cobble bed substrate,Cobble.Bed.Substrate,Habitat Assessment Form,200,,[Other],Field
+Dissolved Inorganic Nitrogen,Dissolved Inorganic Nitrogen,Dissolved.Inorganic.Nitrogen,Auto Calculation,300,,[Sample],Lab
+Dissolved Oxygen [Dissolved Oxygen (X)],Dissolved Oxygen,Dissolved.Oxygen,Continuous Metering,600,,[DO],Field
+Dissolved Oxygen (Saturated) [Dissolved Oxygen (Saturated) (X)],Dissolved Oxygen (Saturated),Dissolved.Oxygen.Saturated,Continuous Metering,600,,[DO],Field
+Dissolved Reactive Phosphorus,Dissolved Reactive Phosphorus,Dissolved.Reactive.Phosphorus,Molybdenum Blue Colorimetry (trace) 22ed 2012,600,0.001,[Sample],Lab
+E. Coli,E. Coli,E.Coli,Membrane Filtration,600,1,[Sample],Lab
+Electrical Conductivity - Field,Electrical Conductivity - Field,Electrical.Conductivity,Conductivity Meter,600,,[EC],Field
+Electrical Conductivity - Lab,Electrical Conductivity - Lab,Electrical.Conductivity,Conductivity Meter,600,,[Sample],Lab
+Embeddedness[Embeddedness],Embeddedness,Embeddedness,Habitat Assessment Form,200,,[Other],Field
+EPT excl Hydr[EPT excl Hydr],EPT excl Hydr,EPT.excluding.Hydroptilidae,No Method Assigned,200,,[MCI],Lab
+Faecal Coliforms,Faecal Coliforms,Faecal.Coliforms,Membrane Filtration,600,,[Sample],Lab
+Gravel bed substrate[Gravel bed substrate],Gravel bed substrate,Gravel.Bed.Substrate,Habitat Assessment Form,200,,[Other],Field
+Hydroptilidae[Hydroptilidae],Hydroptilidae,Hydroptilidae,No Method Assigned,200,,[MCI],Field
+Magnesium[Magnesium],Magnesium,Magnesium,Ind Coupled Plasma + Mass Spec,200,,[Sample],Lab
+Macroinvertebrate Community Index Value[Macroinvertebrate Community Index Value],Macroinvertebrate Community Index Value,MCI.Value,Stark et al. 2001.P3 full count w subsample option,600,,[MCI],Lab
+Puddle Water Level[Puddle Water Level],Puddle Water Level,Measured.Water.Level,Stage height gauge,200,,[Other],Field
+No. EPT Individual[No. EPT Individual],No. EPT Individual,N.EPT.Individual,No Method Assigned,200,,[MCI],Lab
+No. Individuals (Macroinvert)[No. Individuals (Macroinvert)],No. Individuals (Macroinvert),N.Individuals.Macroinvert,Water & Soil Miscellaneous publication No. 54,200,,[MCI],Lab
+No. Taxa (Macroinvert)[No. Taxa (Macroinvert)],No. Taxa (Macroinvert),N.Taxa.Macroinvert,Stark et al. 2001.P3 full count w subsample option,600,,[MCI],Lab
+Nitrate + Nitrite Nitrogen,Nitrate + Nitrite Nitrogen,Nitrate.Nitrite.Nitrogen,Automated Cadmium Reduction (trace) 22ed 2012,600,0.001,[Sample],Lab
+Nitrate Nitrogen,Nitrate Nitrogen,Nitrate.Nitrogen,Calculated,600,0.001,[Sample],Lab
+Nitrite Nitrogen,Nitrite Nitrogen,Nitrite.Nitrogen,Automated Azo dye colorimetry (trace) 22 ed 2012,600,0.001,[Sample],Lab
+% cover film[% cover film],% cover film,Percent.Cover.Film,Calculated,200,,[VISPER],Field
+% cover green filamentous algae <2cm[% cover green filamentous algae <2cm],% cover green filamentous algae <2cm,Percent.Cover.Green.Filamentous.Algae.over.2cm,Calculated,200,,[VISPER],Field
+% cover green filamentous algae >2cm[% cover green filamentous algae >2cm],% cover green filamentous algae >2cm,Percent.Cover.Green.Filamentous.Algae.under.2cm,Calculated,200,,[VISPER],Field
+% cover macrophytes[% cover macrophytes],% cover macrophytes,Percent.Cover.Macrophytes,Calculated,200,,[VISPER],Field
+% cover mats 0.5 - 3mm[% cover mats 0.5 - 3mm],% cover mats 0.5 - 3mm,Percent.Cover.Mats.0.5.to.3mm,Calculated,200,,[VISPER],Field
+% cover mats (old)[% cover mats (old)],% cover mats (old),Percent.Cover.Mats.OLD,Calculated,200,,[VISPER],Field
+% cover mats > 3mm[% cover mats > 3mm],% cover mats > 3mm,Percent.Cover.Mats.over.3mm,Calculated,200,,[VISPER],Field
+% cover moss[% cover moss],% cover moss,Percent.Cover.Moss,Calculated,200,,[VISPER],Field
+% cover other filamentous algae (old)[% cover other filamentous algae (old)],% cover other filamentous algae (old),Percent.Cover.other.filamentous.algae.OLD,Calculated,200,,[VISPER],Field
+% cover other filamentous algae >2cm[% cover other filamentous algae >2cm],% cover other filamentous algae >2cm,Percent.Cover.Other.Filamentous.Algae.over.2cm,Calculated,200,,[VISPER],Field
+% cover other filamentous algae <2cm[% cover other filamentous algae <2cm],% cover other filamentous algae <2cm,Percent.Cover.Other.Filamentous.Algae.under.2cm,Calculated,200,,[VISPER],Field
+% cover phormidium[% cover phormidium],% cover phormidium,Percent.Cover.Phormidium,Calculated,200,,[VISPER],Field
+% cover sludge[% cover sludge],% cover sludge,Percent.Cover.Sludge,Calculated,200,,[VISPER],Field
+% EPT Abundance[% EPT Abundance],% EPT Abundance,Percent.EPT.Abundance,Water & Soil Miscellaneous publication No. 54,200,,[MCI],Field
+% EPT excl Hydr[% EPT excl Hydr],% EPT excl Hydr,Percent.EPT.excluding.Hydroptilidae,No Method Assigned,200,,[MCI],Field
+% EPT Taxa[% EPT Taxa],% EPT Taxa,Percent.EPT.Taxa,Stark et al. 2001.P3 full count w subsample option,600,,[MCI],Field
+% Hydr[% Hydr],% Hydr,Percent.Hydroptilidae,No Method Assigned,200,,[MCI],Field
+% no algae cover[% no algae cover],% no algae cover,Percent.No.Algae.Cover,Calculated,200,,[VISPER],Field
+% Total visual periphyton cover[% Total visual periphyton cover],% Total visual periphyton cover,Percent.Total.Visual.Periphyton.Cover,Calculated,200,,[VISPER],Field
+Periphyton Chlorophyll a[Periphyton Chlorophyll a],Periphyton Chlorophyll a,Periphyton.Chlorophyll.a,Calculated,600,,[Other],Lab
+pH (Lab),pH (Lab),pH,pH Meter,600,,[Sample],Lab
+pH (Field),pH (Field),pH,pH Meter,600,,[pH],Field
+Quantitative MCI[Quantitative MCI],Quantitative MCI,Quantitative.MCI,No Method Assigned,200,,[MCI],Lab
+Semi quantitative MCI[Semi quantitative MCI],Semi quantitative MCI,Semi.Quantitative.MCI,No Method Assigned,200,,[MCI],Lab
+Semi quantitative soft bottomed MCI[Semi quantitative soft bottomed MCI],Semi quantitative soft bottomed MCI,Semi.Quantitative.Soft.Bottomed.MCI,No Method Assigned,200,,[MCI],Lab
+Silt / mud / sand bed substrate[Silt / mud / sand bed substrate],Silt / mud / sand bed substrate,Silt.Mud.Sand.Bed.Substrate,Habitat Assessment Form,200,,[Other],Field
+Siltation on substrate[Siltation on substrate],Siltation on substrate,Siltation.On.Substrate,ESTIMATE,200,,[Other],Field
+Soft bottomed MCI[Soft bottomed MCI],Soft bottomed MCI,Soft.Bottomed.MCI,Stark et al. 2001.P3 full count w subsample option,600,,[MCI],Lab
+Soft bottomed Quantitative MCI[Soft bottomed Quantitative MCI],Soft bottomed Quantitative MCI,Soft.Bottomed.Quantitative MCI,Calculated,200,,[MCI],Lab
+Surface Area Scraped[Surface Area Scraped],Surface Area Scraped,Surface.Area.Scraped,No Method Assigned,200,,[Other],Field
+Suspended Solids [Suspended Solids],Suspended Solids,Suspended.Solids,"Filtration 2L sample, Gravimetric determination",600,0.5,[Sample],Lab
+Total Alkalinity[Total Alkalinity],Total Alkalinity,Total.Alkalinity,Titration using pH Meter,200,,[Sample],Lab
+Hardness (total)[Hardness (total)],Hardness (total),Total.Hardness,Calculated,200,,[Sample],Lab
+Total Kjeldahl Nitrogen,Total Kjeldahl Nitrogen,Total.Kjeldahl.Nitrogen,Phenol/hypochlorite Colorimetry,600,0.1,[Sample],Lab
+Total Nitrogen,Total Nitrogen,Total.Nitrogen,Calculated,600,0.11,[Sample],Lab
+Total Organic Carbon[Total Organic Carbon],Total Organic Carbon,Total.Organic.Carbon,"Catalytic Oxidation, IR Detection",200,,[Sample],Lab
+Total Organic Nitrogen,Total Organic Nitrogen,Total.Organic.Nitrogen,Auto Calculation,300,,[Sample],Lab
+Total Phosphorus[Total Phosphorus],Total Phosphorus,Total.Phosphorus,TP digestion ascorbic acid colorimetry 22ed 2012,600,0.004,[Sample],Lab
+Turbidity (Lab),Turbidity (Lab),Turbidity,Turbidity Meter,600,,[Sample],Lab
+Turbidity (Field),Turbidity (Field),Turbidity,Turbidity Meter,600,,[Turbidity],Field
+Volatile Suspended Solids,Volatile Suspended Solids,Volatile.Suspended.Solids,"Filtration (GF/C, 1.2 micro m). Ashing gravimetric",600,0.5,[Sample],Lab
+Water Temperature (WQ)[Water Temperature (WQ)],Water Temperature (WQ),Water.Temperature.WQ,Temperature Meter,600,,[Temp],Field
