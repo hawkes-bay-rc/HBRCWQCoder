@@ -25,7 +25,7 @@ require(stringr)
 source("R/WQCoderFunctions.R")
 
 #Import data from csv (change csv name as appropriate)
-output <- read.csv("data/20190827WQResults.csv", stringsAsFactors = FALSE)
+output <- read.csv("data/20190927WQResults.csv", stringsAsFactors = FALSE)
 
 WQSites<-read.csv("data/SiteListAll201904.csv", stringsAsFactors=FALSE) #Read sites in from csv
 
@@ -76,7 +76,7 @@ names(working) <- make.names(names(working), unique = TRUE)
 #working <- subset(working, Time >= "2016-01-01")
 
 #Only code data up to 30 June 2019
-working <- subset(working, Time <= "2019-06-30")
+#working <- subset(working, Time <= "2019-06-30")
 
 #Only code data from certain projects
 working <- subset(working, Project.ID %in% c("415 01", "ECOHS", "MBWS", "312704", "339301"))

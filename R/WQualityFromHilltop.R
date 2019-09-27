@@ -67,7 +67,7 @@ WQMeasurements <- subset(WQMeasurements, MaxCode > 200)
 #The start date needs to include all coded data as this data is used in the coder to derive the statistics
 startDate <- "1/1/2004"
 
-endDate <- "01/07/2019"
+endDate <- "01/09/2019"
 #endDate <- ""
 
 #set the url of the Hilltop service (using internal server initially as external not set up with raw results yet.)

@@ -12,7 +12,7 @@ require(lubridate)  ###Date handling library
 
 #Read in the data
 
-datatbl <- read.csv("Data/20190903WQCodedResultsClean.csv", stringsAsFactors = FALSE)
+datatbl <- read.csv("Data/20190927WQCodedResultsClean.csv", stringsAsFactors = FALSE)
 
 #Subset so that only coded data is kept
 datatbl <- subset(datatbl, QualityCode > 200 & QualityCode != 400)

@@ -2,10 +2,10 @@ library(tidyverse)
 # Check for duplication issues between archive, newly coded results and puddle before loading newly coded results to Archive
 
 # Read in newly coded data (non Archive data)
-newCoded <- read.csv("data/20190903WQCodedResultsTestV3.csv", stringsAsFactors = FALSE)
+newCoded <- read.csv("data/20190927WQCodedResultsTestV3.csv", stringsAsFactors = FALSE)
 
 # Read in Archive Data
-archiveData <- read.csv("data/20190903ArchiveData.csv", stringsAsFactors = FALSE)
+archiveData <- read.csv("data/20190927ArchiveData.csv", stringsAsFactors = FALSE)
 
 # Look for duplicate LabID, SubID, Measurement Combinations
 fieldList <- c("Measurement", "QualityCode", "Sample.Number", "Sub.location.ID")
