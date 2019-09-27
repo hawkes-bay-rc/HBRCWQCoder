@@ -15,13 +15,17 @@
 #R files
 *.R
 
+#Documents
+*.docx
+*.vsdx
+
 #Images
 *.png
 Thumbs.db
 
 # directories
+**/Superceeded
 
-**/Docs
 
 
 # working test files
