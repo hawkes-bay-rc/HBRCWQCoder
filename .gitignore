@@ -18,6 +18,8 @@
 #Documents
 *.docx
 *.vsdx
+*.~vsdx
+*.html
 
 #Images
 *.png

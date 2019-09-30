@@ -1,7 +1,7 @@
 # HBRCWQCoder
 
 Automating the quality coding of water quality results stored in Hilltop data files.
-The coding reflects the Hawke's Bay Regional Council criteria and is broadlysimilar to an early draft of NEMS, but has different criteria to the final NEMS that was published.
+The coding reflects the Hawke's Bay Regional Council criteria and is broadly similar to an early draft of NEMS, but has different criteria to the final NEMS that was published.
 
 ## Getting Started
 

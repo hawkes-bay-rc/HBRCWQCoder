@@ -268,7 +268,7 @@ PChecks <- function(working) {
   names(wideP) <- make.names(names(wideP), unique = TRUE)
   wideP$PSumComment[is.na(wideP$Dissolved.Reactive.Phosphorus)] <- "No DRP result."
   wideP$PSumComment[is.na(wideP$Total.Phosphorus)] <- "No TP result."
-  wideP$PSumComment[wideP$Total.Phosphorus < wideP$Dissolved.Reactive.Phosphorus] <- "DRP result > TP result."
+  wideP$PSumComment[(!is.na(wideP$Total.Phosphorus)) & (!is.na(wideP$Dissolved.Reactive.Phosphorus)) & (wideP$Total.Phosphorus < wideP$Dissolved.Reactive.Phosphorus)] <- "DRP result > TP result."
   workingP <- merge(workingP, wideP[c("Site","Time", "PSumComment")], by = c("Site", "Time"))
   
   working <- merge(working, workingP[c("Site", "StdMeasurementName", "Time", "PSumComment")], by = c("Site", "StdMeasurementName", "Time"), all.x = TRUE)
@@ -433,7 +433,7 @@ SSChecks <- function(working) {
   names(wideSS) <- make.names(names(wideSS), unique = TRUE)
   wideSS$SSSumComment[is.na(wideSS$Suspended.Solids)] <- "No SS result."
   wideSS$SSSumComment[is.na(wideSS$Volatile.Suspended.Solids)] <- "No VSS result."
-  wideSS$SSSumComment[wideSS$Suspended.Solids < wideSS$Volatile.Suspended.Solids] <- "VSS result > SS result."
+  wideSS$SSSumComment[(!is.na(wideSS$Suspended.Solids)) & (!is.na(wideSS$Volatile.Suspended.Solids)) & (wideSS$Suspended.Solids < wideSS$Volatile.Suspended.Solids)] <- "VSS result > SS result."
   workingSS <- merge(workingSS, wideSS[c("Site","Time", "SSSumComment")], by = c("Site", "Time"))
   
   working <- merge(working, workingSS[c("Site", "StdMeasurementName", "Time", "SSSumComment")], by = c("Site", "StdMeasurementName", "Time"), all.x = TRUE)
